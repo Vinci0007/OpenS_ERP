@@ -56,7 +56,7 @@ if __name__ == '__main__':
     # sawh.showAllWarehouseData() 
     # whData = '{"0": {"product_id": "fd", "product_name": "sdf", "product_type": "sdf", "supplier": "sdf", "isoutbound": "", "inbound_time": "2024-05-21 22:24:29", "outbound_time": "", "receive_time": "sdf", "price": "\\u65e0\\u6743\\u9650", "price_unit": "sdf", "quality": "1", "quality_unit": "dsf", "operator": "admin1101051091009720240501000159863", "productCheckID": "RZQOORL32J2FVRX3HPNPORG3RMVF5U5RZU6QJYZGLWTMBAGURCJA===="}}' 
     # whdo.saveWarehouseData('da5d', whData)
-    app.run(host='0.0.0.0', port=5000, debug=True)  # 在所有网络接口上监听，端口为5000
+    app.run(host='0.0.0.0', port=5000, debug=True) 
     # usersds.find_user_with_username('1q3we165we','123')
     # usersds.validate_user('1q3we165we',{'username':'123',
     #                                       'password': '123'})
