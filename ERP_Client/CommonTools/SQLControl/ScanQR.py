@@ -15,7 +15,7 @@ def scan_qr_code(image_path):
         product_data.append(obj.data.decode('utf-8'))
     return product_data[0]
 
-# 使用示例
+
 # data = json.loads(scan_qr_code(image_path1))
 # data = scan_qr_code(image_path1)
 # data1 = json.loads(data)
