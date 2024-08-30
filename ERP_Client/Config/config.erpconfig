@@ -1,0 +1,19 @@
+### run Type
+run_Type = local
+
+# mysql host                                
+erp_sql_host = localhost                  
+erp_sql_port = 3306                       
+erp_sql_account = root                    
+erp_sql_password = 123                    
+erp_sql_database_name = erp_data 
+
+### server
+server_address = http://127.0.0.1:5000      
+server_port = 5000
+
+#  QR CLIENT
+qr_client_type = serialType
+serial_port = /dev/ttyUSB0
+serial_portNum = 9000
+isSecretInfo = True

@@ -1,0 +1,1372 @@
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 00:49:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 00:49:44] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 00:49:53] "[35m[1mPOST /showAllWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:08:39] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:08:39] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:08:59] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:09:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:09:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:09:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:13:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:13:28] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:13:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:14:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:14:16] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:15:51] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:16:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:16:18] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:21:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:21:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:21:45] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/May/2024 01:23:07] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 09:45:47] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 09:45:48] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:02:48] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:02:49] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:03:01] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:03:30] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:05:06] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:05:06] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:05:29] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:05:30] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:05:55] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:06:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:06:57] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:07:06] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:08:16] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:08:17] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:08:23] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:11:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:11:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:11:20] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:16:45] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:16:45] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:16:54] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:17:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:17:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:18:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:18:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:19:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:19:05] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:20:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:20:16] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:20:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:28:25] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:28:26] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:29:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:29:04] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:29:14] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:30:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:30:15] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:30:23] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:32:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:32:42] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:32:53] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:37:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:37:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:39:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:39:23] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:43:05] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:43:06] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:43:11] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:46:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:46:53] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 10:47:02] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:01:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:01:46] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:02:09] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:04:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:04:40] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:04:59] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:10:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:10:38] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:10:41] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:20:07] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:20:08] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:20:11] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:22:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:22:54] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:23:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:23:20] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:23:22] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:26:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:26:42] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:26:45] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:27:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:27:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:27:49] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:48:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:48:12] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:48:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:51:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:51:52] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:51:59] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:55:25] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:55:26] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:55:32] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:58:12] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:58:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 11:58:19] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:06:14] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:06:15] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:06:23] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:11:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:11:19] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:11:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:12:43] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:12:44] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:12:50] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:14:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:14:36] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:14:43] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:17:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:17:58] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:18:05] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:20:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:20:25] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:20:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:21:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:21:37] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:21:42] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:25:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:25:25] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:25:29] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:33:12] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:33:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:33:15] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:38:12] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:38:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:38:17] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:39:18] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:39:19] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:39:22] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:41:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:41:32] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:41:35] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:42:49] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:42:49] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:42:52] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:45:12] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:45:12] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:45:15] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:46:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:46:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:46:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:47:14] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:47:14] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:47:22] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:47:50] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:47:51] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:48:07] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:48:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:14] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:16] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:32] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:49:34] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:50:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:50:04] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 12:50:08] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:01:49] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:01:50] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:01:55] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:04:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:04:59] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:05:01] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:07:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:07:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:07:50] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:08:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:08:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:08:17] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:08:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:09:00] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:09:02] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:10:47] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:10:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:10:50] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:12:05] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:12:05] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:12:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:12:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:12:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:14:10] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:14:11] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:14:14] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:15:55] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:15:56] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:15:58] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:20:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:20:15] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:20:18] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:21:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:21:27] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:21:30] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:32:48] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:32:49] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:32:52] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:36:50] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:36:51] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:36:54] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:37:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:37:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:38:18] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:38:18] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:40:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:40:53] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:45:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:45:47] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:48:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:48:42] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:50:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:50:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:53:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:53:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:53:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:53:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:54:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:54:37] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:55:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 13:55:12] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:05:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:05:54] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:06:09] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:07:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:07:19] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:07:26] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:12:18] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:12:18] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:26:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:26:04] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:29:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:29:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:32:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:32:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:32:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:32:31] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:42:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:42:33] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:44:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:44:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:50:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:50:03] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:51:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:51:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:54:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:54:25] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:55:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:55:05] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:55:47] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:55:48] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:57:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 14:57:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 15:00:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 15:00:05] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 15:00:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 15:00:42] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:01:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:02:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:03:38] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:03:39] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:06:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:07:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:08:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:08:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:10:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:10:20] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:16:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:16:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:17:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:17:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:19:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:19:41] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:21:49] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:21:50] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:24:29] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:24:30] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:24:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:24:54] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:51:55] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:51:55] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:53:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:53:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:56:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:56:32] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:57:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 16:57:38] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:26:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:26:31] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:26:39] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:27:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:27:28] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:27:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:29:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:29:34] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:29:40] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:44:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:44:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:45:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:45:53] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:48:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:48:31] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:48:42] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:49:18] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:49:19] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:49:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:51:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:51:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:53:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:53:40] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:53:47] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:54:33] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:56:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:56:54] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:57:06] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:58:42] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:58:43] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 17:58:50] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:00:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:00:28] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:00:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:01:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:01:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:01:17] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:01:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:01:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:02:41] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:04:10] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:04:11] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:04:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:05:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:05:24] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:05:37] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:07:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:07:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:08:15] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:11:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:11:32] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:11:45] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:14:05] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:14:05] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:14:38] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:18:20] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:19:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:19:38] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:19:46] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:25:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:26:00] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:26:08] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:27:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:27:41] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:27:52] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:29:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:29:52] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:30:02] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:31:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:31:05] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:31:11] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:33:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:33:59] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:34:07] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:37:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:37:58] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:38:02] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:04] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:08] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:50] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:51] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:40:54] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:41:43] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:41:43] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:41:49] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:49:06] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:49:06] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:49:12] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:51:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:53:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:53:57] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 18:54:03] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:56:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:56:34] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:56:37] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:57:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:57:25] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:57:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:59:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 19:59:09] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:02:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:02:01] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:02:04] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:37:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:37:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:37:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:44:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:44:38] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:44:40] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:44:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:44:59] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:45:02] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:45:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:45:53] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:45:55] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:54:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:54:00] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 20:54:03] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:00:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:00:27] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:00:30] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:01:05] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:01:05] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:01:08] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:10:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:10:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:11:28] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:31:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:31:22] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:31:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:34:10] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:34:11] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:34:20] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:35:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:35:01] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:35:04] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:40:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:40:02] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:40:05] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:41:02] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:41:03] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:41:05] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:47:20] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:47:21] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:47:23] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:57:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:57:37] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:57:40] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:16] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:29] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:58:52] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:03] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:05] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:31] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:34] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:48] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:49] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 21:59:52] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:00:01] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:49:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:49:12] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:49:15] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:49:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:49:46] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:50:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:50:33] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:50:35] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:37] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:38] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:41] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:53] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:53:57] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:54:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:54:32] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:54:34] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:56:42] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:56:43] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:56:45] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 22:56:55] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:01:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:01:13] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:01:15] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:11:02] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:11:03] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:11:05] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:12:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:12:09] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:12:11] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:14:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:14:27] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:14:29] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:19:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:19:24] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:20:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:20:19] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:20:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:20:53] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:25:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:25:03] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:26:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:26:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:27:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:28:09] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:28:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:28:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:29:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:29:45] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:30:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:30:20] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:32:18] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:32:18] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:43:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:43:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:43:36] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:44:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:44:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:46:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:46:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:46:26] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:20] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:21] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:23] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:55] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:56] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:47:59] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:49:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:49:09] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:49:11] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:56:21] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:56:22] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:56:24] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:11] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:14] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:37] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/May/2024 23:57:40] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:10:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:10:53] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:10:55] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:14:14] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:14:14] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:14:17] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:36:45] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:36:46] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:37:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:38:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:38:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:38:42] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:40:02] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:40:02] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:41:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:41:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:46:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:46:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:46:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:46:32] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:47:02] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:47:03] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:48:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:48:51] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:49:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:49:32] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:49:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:49:53] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:50:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:50:12] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:51:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:51:11] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:51:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:51:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:52:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 00:52:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:41:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:41:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:42:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:42:28] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:42:32] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:43:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:43:35] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:43:38] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:43:38] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:10] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:10] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:26] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:45] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:44:47] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:45:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:45:09] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:45:12] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:50:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:50:41] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:51:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:51:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:52:16] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:52:16] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:52:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:52:54] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:54:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:54:54] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:55:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:55:33] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:57:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:57:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:58:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 16:58:11] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:01:49] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:01:50] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:02:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:02:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:08:29] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:08:30] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:09:02] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:09:03] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:17:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:17:29] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:18:39] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:18:39] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:20:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:20:03] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:21:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:21:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:27:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 17:27:27] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:04:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:04:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:05:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:05:24] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:09:57] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:09:57] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:10:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 18:10:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:31:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:31:11] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:33:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:33:31] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:33:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:33:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:34:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:34:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:35:55] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:35:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:40:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:40:15] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:42:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:42:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:45:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 21:45:41] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:02:06] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:02:07] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:03:11] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:03:12] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:07:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:07:52] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:42:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:42:53] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:44:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:44:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:46:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:46:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:56:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 22:56:52] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:03:14] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:03:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:04:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:05:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:11:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:11:09] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:12:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:12:55] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:16:25] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2024 23:16:25] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:13:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:13:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:33:07] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:33:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:34:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:34:18] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:43:20] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 00:43:21] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:06:58] "[35m[1mPOST /login_validation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:07:03] "[35m[1mPOST /find_user_with_username HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:07:30] "[35m[1mPOST /login_validation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:07:35] "[35m[1mPOST /find_user_with_username HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:08:32] "[35m[1mPOST /login_validation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:08:38] "[35m[1mPOST /find_user_with_username HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:11:14] "[35m[1mPOST /login_validation HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:12:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:12:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:13:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:13:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:19:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:19:40] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:24:43] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:24:44] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:26:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:26:34] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:28:06] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:28:07] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:40:53] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:40:54] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:41:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 11:41:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:00:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:00:19] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:04:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:04:09] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:12:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:12:59] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:31:31] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:31:31] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:36:21] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:36:22] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:39:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:39:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:43:16] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:43:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:44:16] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 12:44:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:00:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:00:24] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:08:42] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:08:43] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:36:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:36:04] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:40:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:40:29] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:47:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:47:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:50:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:50:26] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:57:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 13:57:57] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:01:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:01:20] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:23:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:23:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:25:16] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:25:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:29:04] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:29:04] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:29:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:29:47] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:30:55] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:30:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:33:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:34:05] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:34:42] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:34:43] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:35:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:35:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:40:21] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:40:22] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:43:20] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:43:21] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:46:57] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:46:58] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:48:05] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:48:06] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:49:38] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 14:49:38] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:02:25] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:02:25] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:04:38] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:04:39] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:05:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:05:32] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:07:14] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:07:14] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:08:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:08:26] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:12:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:12:19] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:14:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:14:10] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:14:40] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:14:41] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:16:00] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:16:01] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:18:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:18:33] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:27:13] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:27:13] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:28:17] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:28:17] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:31:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:31:45] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:42:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:42:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:42:50] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:42:51] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:56:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:56:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:59:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 15:59:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:01:06] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:01:07] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:02:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:02:30] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:06:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:06:26] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:08:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:08:02] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:09:57] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:09:57] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:11:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:11:44] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:19:36] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:19:37] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:27:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:27:19] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:51:35] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:51:36] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:52:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:52:32] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:52:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 16:53:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:01:25] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:01:25] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:03:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:03:52] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:07:12] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:07:13] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:08:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:08:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:13:50] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:13:51] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:16:51] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:16:51] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:20:08] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:20:08] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:22:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:22:31] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:25:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:25:25] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:26:01] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:26:02] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:26:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:26:45] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:28:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:28:55] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:34:49] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:34:50] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:37:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:37:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:45:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:45:16] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:51:56] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:51:56] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:54:58] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:54:59] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:55:43] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:56:52] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:56:52] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:57:05] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:57:26] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:57:27] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:57:37] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:58:29] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:58:29] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 17:58:40] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:02:03] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:02:03] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:02:16] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:02:17] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:03:29] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:03:30] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:03:41] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:03:42] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:04:07] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:04:08] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:04:19] "[33mPOST /saveWarehouseData HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:04:27] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:54:42] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:54:43] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:56:44] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:56:45] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:57:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 18:57:25] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:01:27] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:03:54] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:03:54] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:04:12] "[31m[1mPOST /saveWarehouseData HTTP/1.1[0m" 415 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\main.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:05:30] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:05:31] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:06:33] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:06:34] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\main.py', reloading
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:12:46] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:12:46] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:13:09] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:13:09] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:13:21] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:14:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:14:45] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:14:46] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:15:09] "[31m[1mPOST /saveWarehouseData HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:15:42] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\main.py', reloading
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:20:21] "[31m[1mPOST /saveWarehouseData HTTP/1.1[0m" 415 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:20:23] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:20:26] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 19:21:07] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 22:24:15] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2024 22:24:16] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:19:32] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:19:38] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:20:01] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:20:04] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\WarehouseDataOperate.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:21:47] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:21:48] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:22:25] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:23:21] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:23:21] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\WarehouseDataOperate.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:25:16] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:25:24] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:25:25] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:26:39] "[35m[1mPOST /saveWarehouseData HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\WarehouseDataOperate.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:29:22] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:29:23] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:29:44] "POST /saveWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:31:31] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\WarehouseDataOperate.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:33:21] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:33:22] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:34:45] "POST /saveWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:38:10] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:41:41] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:41:41] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:42:02] "POST /saveWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 10:42:21] "POST /showAllWarehouseData HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 11:20:47] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 11:20:48] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 11:20:50] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 11:22:54] "POST /showAllWarehouseData HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\0001_Work_New\\012_ZGHK\\QT_ERP_Python\\ERP_Python_qt_server\\WareHouseData\\ShowAllWarehouseData.py', reloading
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 14:24:28] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 14:24:29] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 15:39:03] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 15:42:02] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 15:48:39] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:21:22] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:22:13] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:26:18] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:26:53] "POST /login_validation HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:58:19] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:58:19] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 16:59:59] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:00:00] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:00:39] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:00:42] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:03:34] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:03:35] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:05:27] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:05:28] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:07:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:07:46] "POST /find_user_with_username HTTP/1.1" 200 -
+DEBUG:my_logger:Data: {'username': '', 'password': 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:08:46] "POST /login_validation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:08:47] "POST /find_user_with_username HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2024 17:09:04] "POST /showAllWarehouseData HTTP/1.1" 200 -

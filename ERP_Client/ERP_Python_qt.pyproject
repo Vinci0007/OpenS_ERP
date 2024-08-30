@@ -1,0 +1,3 @@
+{
+    "files": ["CommonTools/SQLControl/sql_data_transform.py","Users/UsersSessionManage.py","Pages/__init__.py","CommonTools/SQLDataManage.py","CommonTools/BomData.py","Login.ui","Pages/Main.qml","Users/Permissions.py","Config/config.erpconfig","Users/UsersManage.py","Users/__init__.py","test__init__.py","CommonTools/ExcleDataRead.py","erpwidget.py","Users/UsersLogin.py","CommonTools/SQLControl/mysql_Connect.py","CommonTools/_init__.py","CommonTools/WareHouseData.py","Pages/MainForm.ui.qml","Pages/test.py","Pages/mainWindow.py","Pages/mainWindow.ui","Pages/mainWindow_ui.py"]
+}
