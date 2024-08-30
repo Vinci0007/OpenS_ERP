@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.ttml": "xml",
-        "*.ttss": "css"
-    },
-    "editor.fontSize": 17
-}
