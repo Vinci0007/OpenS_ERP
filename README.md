@@ -5,7 +5,7 @@ Only has some basic features
 based on pyqt6
 
 
-Notice!!!!!!!!!
+Notice!!!!!!!!!                        
 cause run on local machine , module files "__init__.py" need to rewrite.
 
 
