@@ -15,29 +15,24 @@ def validate_user(Auth_token, Login_user):
     username = Login_user['username']
     password_hash = Login_user['password']
     result = find_user_with_username(Auth_token, username)
-    if result:
-        sql_pass = result['password']
-        sql_username = result['username']
-        sql_password_hash = hashlib.sha256(sql_pass.encode()).hexdigest()
-        if username == sql_username and password_hash == sql_password_hash:
-            return {'login_state': True,
-                            'user_check_id': result['username'],
-                            'auth_token': result['auth_token'],
-                            }
-        else:
-            # return jsonify({'login_state': False,
-            #                 'user_check_id': '',
-            #                 'auth_token': '',
-            #                 })
-            return {'login_state': False,
-                        'user_check_id': '',
-                        'auth_token': '',
-                        }
-    else:
+    if not result:
         return {'login_state': False,
                         'user_check_id': '',
                         'auth_token': '',
                         }
+    sql_pass = result['password']
+    sql_username = result['username']
+    sql_password_hash = hashlib.sha256(sql_pass.encode()).hexdigest()
+    if username == sql_username and password_hash == sql_password_hash:
+        return {'login_state': True,
+                        'user_check_id': result['username'],
+                        'auth_token': result['auth_token'],
+                        }
+    else:
+        return {'login_state': False,
+                    'user_check_id': '',
+                    'auth_token': '',
+                    }
         
     
 
